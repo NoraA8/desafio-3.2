@@ -1,0 +1,22 @@
+.borders {
+  border: solid;
+  border-radius: 0.8rem;
+  border-style: solid;
+  border-color: red;
+  border-width: 2px;
+  outline: none;
+}
+.img {
+  border-radius: 0.8rem;
+}
+.button {
+  border-radius: 0.3rem;
+  outline: none;
+}
+.backcolor {
+  background-color: #d8d7d7;
+}
+.noborders {
+  border: none;
+  outline: none;
+}
